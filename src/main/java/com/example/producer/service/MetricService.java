@@ -1,7 +1,7 @@
-package com.example.wallet.service;
+package com.example.producer.service;
 
-import com.example.wallet.dto.MetricRequestDto;
-import com.example.wallet.dto.MetricResponseDto;
+import com.example.producer.dto.MetricRequestDto;
+import com.example.producer.dto.MetricResponseDto;
 import com.fasterxml.jackson.core.JsonProcessingException;
 
 public interface MetricService {

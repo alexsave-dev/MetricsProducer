@@ -1,8 +1,8 @@
-package com.example.wallet.controller;
+package com.example.producer.controller;
 
-import com.example.wallet.dto.MetricRequestDto;
-import com.example.wallet.dto.MetricResponseDto;
-import com.example.wallet.service.MetricService;
+import com.example.producer.dto.MetricRequestDto;
+import com.example.producer.dto.MetricResponseDto;
+import com.example.producer.service.MetricService;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

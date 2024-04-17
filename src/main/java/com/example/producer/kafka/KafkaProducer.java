@@ -1,5 +1,5 @@
-package com.example.wallet.kafka;
-import com.example.wallet.dto.MetricRequestDto;
+package com.example.producer.kafka;
+import com.example.producer.dto.MetricRequestDto;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.kafka.clients.producer.ProducerRecord;

@@ -1,4 +1,4 @@
-package com.example.wallet.dto;
+package com.example.producer.dto;
 
 public enum ResponseStatus {
     SUCCESS, ERROR

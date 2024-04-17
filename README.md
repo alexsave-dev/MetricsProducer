@@ -11,6 +11,8 @@ docker-compose up -d
 Two containers for postgres and kafka will be up and running as a result.
 Kafka UI can be launched from http://localhost:3040
 
+Run the service MetricProducerApplication
+
 ## API
 POST localhost:8080/metrics - sends the metric to Kafka topic.
 
